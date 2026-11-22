@@ -1,4 +1,4 @@
-# 4번 문제 : 유연근문제(프로그래머스
+# 4번 문제 : 유연근문제(프로그래머스)
 
 def solution(schedules, timelogs, startday):
     answer = 0
